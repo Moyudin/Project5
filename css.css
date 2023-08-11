@@ -1,0 +1,18 @@
+body{
+    background-color: #F8F8FA;
+}
+@media screen and (min-width: 769px) {
+    .All-Categorie-fsm{
+        display: none;
+    }
+}
+.Home-Chair-img{
+    height: 500px;
+}
+.feature-img{
+    height: 200px;
+    width: 300px;
+}
+.social-img{
+    width: 100px;
+}
